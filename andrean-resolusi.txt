@@ -5,4 +5,3 @@ Andrean RESOLUSI
 -Belajar javascript
 -Belajar bootstrap
 -Belajar php
--Belajar crud
