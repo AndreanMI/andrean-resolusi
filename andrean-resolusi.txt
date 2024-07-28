@@ -2,3 +2,5 @@ Andrean RESOLUSI
 -Konsisten belajar ngoding
 -Membuat website portfolio
 -Membuat website yang dinamis
+-Belajar javascript
+-Belajar bootstrap
