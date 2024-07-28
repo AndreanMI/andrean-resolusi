@@ -4,3 +4,5 @@ Andrean RESOLUSI
 -Membuat website yang dinamis
 -Belajar javascript
 -Belajar bootstrap
+-Belajar php
+-Belajar crud
